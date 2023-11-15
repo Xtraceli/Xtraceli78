@@ -1,0 +1,26 @@
+{
+  "name": "Patrick Schmidt",
+  "age": 64,
+  "address": {
+    "street": "Lutcob Street",
+    "city": "Naamre",
+    "state": "MS",
+    "zip": "78536"
+  },
+  "contact": {
+    "phone": "(937) 352-9204",
+    "servicePhone": "800934118"
+  },
+  "birthday": "2000-03-20T08:10:41.833Z",
+  "ip": "111.161.174.89",
+  "foo": "bar",
+  "profile": {
+    "about": "Bum peg fejoce fedimcab su si epogu ge koawi sub ure far gicoona. Satwak ji losuc wo zehpus zaf fa os ke tonuv fovuv budde dustobeh himadiuli agzohag. Tec ofa hubiz utzafoh zansuw zenisre ifaufto tow rogwigif hi atameh evduus duhga. Roge kul weha gomu halnat en havkacon baswoz bihe wi sepkago zoparil.",
+    "bio": "Wodekdeb colto om uropuko tu oz cuz bopob paena hukihlo fubupe memba ileif el is niez karwiro jevel. Roime fotkak uz iruwu lopdagin fulo bozabe adotoza sik dorzi gurbiwi hava ge lagat gunjig olo. Dogwata ho lam cihvuv iz ec miupo nuuzhoz man zokotepi cicov oh wag. Cor cocdek kar gen ecneh paakzaz mo isana celuksom wuti dad vanoke dojsifhit ilju hawbotjah."
+  },
+  "apiKey": "90a082ca90276ece14be719ed2bffe3935081355a8aef3885bca082234d5da8f",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
