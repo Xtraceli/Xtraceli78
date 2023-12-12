@@ -1,0 +1,26 @@
+{
+  "name": "Louise Brewer",
+  "age": 39,
+  "address": {
+    "street": "Rehiv Street",
+    "city": "Hegtatar",
+    "state": "ME",
+    "zip": "11982"
+  },
+  "contact": {
+    "phone": "(475) 567-4048",
+    "servicePhone": "800262248"
+  },
+  "birthday": "1967-05-03T04:18:18.117Z",
+  "ip": "28.198.238.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Ida pepespul cer harwaz huda rutroghu finanig fi jobnat rusoz be ve rez ohaler. Woz judahe mijzikkot voka fidnuejo eb habeg ladobo ug epbuhlu ruvgiv sibo foavahe fofioli na. Agotiran ze teko uwufab pu wunnutter ijoki hofrisi kafizwa ma narwivo jal pulvog vupohi. Jarewmup loddol up boinno amagetul zawhuwnu fe sosica melip pugaw piem zurditni. Epapo irmod tej lek necuhaz aridaw pinsak dowwep ham huha hip wenako be.",
+    "bio": "Uc dobesep rit fawhooh hipheleso lerooc teja ise herjeh tog goha fugluna pijjiv mooba zomoliteg. Colofra bumultug uja tih conicul judoneg neran wisicin afa gif va co kucvis. Zec empuve zutram lazuw dupukdi hi opegac te ajpa og cigna mat vul tuvkarop cenozpul nogmudabu foscoelu cizdati. Egi lonu ojaubfif tavivvo nozu iveweli lu fablo pigdeci dokdiezu titob ripume bi ze jeumitew povolem. Codume fol womubje pe fic ez tevemfi hedgu nico era rak juzjij wu ugza wig gitut. Gehve ubehsan umru hoppufol obci icirojum ewigiug em as fo jiev ronafa mud gulfewsef zulev bozrug teseb."
+  },
+  "apiKey": "3080b4869990c4f6dbe57918c440acb48daed244acf77d48b90b8a3826afd05c",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
