@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Nguyen",
+  "age": 33,
+  "address": {
+    "street": "Cemur Ridge",
+    "city": "Calefra",
+    "state": "MI",
+    "zip": "71414"
+  },
+  "contact": {
+    "phone": "(963) 632-7475",
+    "servicePhone": "800215312"
+  },
+  "birthday": "1988-11-25T03:29:50.305Z",
+  "ip": "226.200.102.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Kawa bawobizom kolpag kadesu mila wiusre omovaw oto kuvaruka aci ubvaz haze. Adrah ma fe te isasesu al ca voded uncadje cuf nowuuse omaco izudov riicmuz popil katru puhpim ajeice. Lawe zopzuk efzej dasiv ra fu ruv ocomos okoahe nisdawoj epe helseh eputam ej najohca sodfisbe.",
+    "bio": "Bev julogo ileloh tug civ iradune jemor jatovsu beol dewi ginut kubape zon pog taobo maij wepkin mecok. Ega na pe be jecelcem we uzuwav su disihe nanmanug saffo zutaripi ac sispugigo vegivir gejibu piwnojvu. Uctac rerfepcuz nuhwil luucu voteb zudeko gifofli ajwalhi noc holke de hipanaz tu ogetapo perupig."
+  },
+  "apiKey": "dddacc49c989399f48265dccdd4d4bc2c7142f0766d41f10f10b32e40bcf480b",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
