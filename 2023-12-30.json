@@ -1,0 +1,26 @@
+{
+  "name": "Wayne Summers",
+  "age": 52,
+  "address": {
+    "street": "Puzjuv Terrace",
+    "city": "Micaak",
+    "state": "ND",
+    "zip": "39444"
+  },
+  "contact": {
+    "phone": "(625) 583-4820",
+    "servicePhone": "800258847"
+  },
+  "birthday": "1984-09-27T21:40:55.786Z",
+  "ip": "19.47.105.145",
+  "foo": "bar",
+  "profile": {
+    "about": "Veebusu pok sof kobluji vum hu keji wemaf hafvi ajahos vicdug joz sa hila. Ebfadzus dad oreup gu aku jisdul lafo fum cu zahi golbara voriwa. Urni mefsilme cat du gin lo rene cawug vuh bavas vehe uprertez gopko eti nogeh hafib kihrat.",
+    "bio": "Ga tidulace poovo rij nubtegba cewzu wu dotze laluji munrubned fudre coecave vuh wid vuen dukninotu wojfirali wahper. Dugecjiv ahitulih unratid ve noozla bek zudulna wep okuhabta safpe niv ikaidbo di. Jah cok bezunkag obagebu fuagueku ju ufa son fowmipu ad ma gahek we gamokvom is rapcocig."
+  },
+  "apiKey": "25baf494498d430f09e4c4b8447a37a03925fbfc21a1405780dd2a04b2f8a921",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
