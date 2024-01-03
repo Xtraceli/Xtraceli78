@@ -1,0 +1,26 @@
+{
+  "name": "Harold Santiago",
+  "age": 22,
+  "address": {
+    "street": "Muhnes Circle",
+    "city": "Variftow",
+    "state": "MO",
+    "zip": "80242"
+  },
+  "contact": {
+    "phone": "(735) 991-8043",
+    "servicePhone": "800844834"
+  },
+  "birthday": "1969-12-30T22:07:13.406Z",
+  "ip": "23.13.111.214",
+  "foo": "bar",
+  "profile": {
+    "about": "La bowe tizoc ni puitno ev lam zah law dujge vihoj gi wo nugoc. Zeudi fehtad jum boin dojcopi ulcu li ecigo of cam echoori nit liborive. Tasa cimi vij lufe guta wuwrizboc kuodtum hacjom tek gohovvur kiceb ovozop faj zabifu puazfus zu wedatah. Ebawutvef lo le si budoup viso ejedi lugoz milpebi ror nak vu.",
+    "bio": "Ubake uh honicab zi lin ag nul go ifcol winib mo kacgu nam efaabo dabko nuih wasmafmol beel. Fe kutefci no gi neome nospar vihus uhe edimipen sov uh musso cocebi ec wif letjogeja li. Newda ni uvo loaf fuhavur hozafoni izufasul laaz jupaw kofoscar uda cawhubmi umvuma hosojusat kotfipen vip cew."
+  },
+  "apiKey": "18213305bdd2af333fdf2da3806da47480c2e72c6e3753f60a66fdd8f7b1d3b2",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
