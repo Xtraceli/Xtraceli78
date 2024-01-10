@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Atkins",
+  "age": 31,
+  "address": {
+    "street": "Hinir Lane",
+    "city": "Uvokiba",
+    "state": "ND",
+    "zip": "82471"
+  },
+  "contact": {
+    "phone": "(400) 589-3094",
+    "servicePhone": "800299613"
+  },
+  "birthday": "1980-04-07T10:10:39.871Z",
+  "ip": "50.72.130.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Tadjan icozazi muger kuhbi disorno gaves kej hedik rerevev dauju wub heev be mobfor mawho apwuhmi tuwibo. Lakijuf woket desusuj nag evhorpa cemisi ova of iltam fi ho fu afcu zuzurus to. Ifu tamiifo fufvar kezdol de zognutce rikogo kotehfon dozurde mifhofgif sikuwim nacvobeg zo icamid cocirir tafmu.",
+    "bio": "Hilum acmohan et no iji fugmo tofid fipdo nigcesha su zunnejca enebout eri hu. Lon aviru furrogguw bouvew lidujgod nisdo uku felji enaazo guriwfud ceca rotzep ciresni. Zuvjuveni jername ojukoj pacedda mo pu tagejud wirudewo osuofuse ojvif zazecil ru."
+  },
+  "apiKey": "824be58d018bee50bb9c6c36cb99140da1b3d3d0f2d2a787213c75ab2a88ab08",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
