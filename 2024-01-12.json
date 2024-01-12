@@ -1,0 +1,26 @@
+{
+  "name": "Myrtle Drake",
+  "age": 44,
+  "address": {
+    "street": "Mijti Pass",
+    "city": "Umufigin",
+    "state": "MI",
+    "zip": "05760"
+  },
+  "contact": {
+    "phone": "(659) 798-3927",
+    "servicePhone": "800842226"
+  },
+  "birthday": "2005-01-12T15:14:15.614Z",
+  "ip": "229.18.174.152",
+  "foo": "bar",
+  "profile": {
+    "about": "Fivanohag de duhgaj sawkusoj erpibjij uduha zisogjuv kowi tismo lapoliwu solpapuv us va otaruz bibrogpor uvgeaf. Zevrujki zu neuwbo sakebaka ehazu mureme ji muij zipci avuup femtog kihvezvat dimgis. Mu cupli lozu araugki tu cigsiz bome had wubawok ralje rez vac re aboosu jobtev. Gifok wis de peir iga niperabe afe zelfuvo dife owukaw loba le na. Ze tadolor ofucunti rafub vejru lil zimoc jo pigecir oghilot dob davadi ap aco sulu. Joveebu mi fanel odu wijuhov hosje odziuhe bidzojwec fe barajor on lesfoma usanuodi zes no urofab odjema mawjov. Naf haso bu anuna ow gi wor inusilaz zocut ducon mucadbat odu bob apis zeop.",
+    "bio": "Zo vuglij nunzarmi afameho ja seocaze owew ovuji jeufu vu larac iga fun tefpifu pujak. Uju as la bez tod po roku moc tiwvoowa bucu une tanataw ka apozosa fekwucjus comfin vi. Zi mes riun juw cu de pa gu dodew pu lek adgiw mekbu to. Re hedunre wa coj so gorispaj ca cunmep sodweop zafmokpo aw pojorce ke gecaza su. Eba piwec isnad fo akamibpon bukoc upaderi lespadked cej egawaf kavpub upuag urciide kejnezwo. Wiejofu vok reof ci hulicih uwadi bewadfum navso sa jej ekabikhum kiz zazeafi loftej ivima fuarsa lihajok."
+  },
+  "apiKey": "0c0e47e53c895b7ae39355a641aec42b482266fa7d072c6ea59fe27760081ef7",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
