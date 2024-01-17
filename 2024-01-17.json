@@ -1,0 +1,26 @@
+{
+  "name": "Betty George",
+  "age": 38,
+  "address": {
+    "street": "Boplaj Center",
+    "city": "Sutgizjij",
+    "state": "WY",
+    "zip": "04064"
+  },
+  "contact": {
+    "phone": "(702) 259-4213",
+    "servicePhone": "800931629"
+  },
+  "birthday": "1963-08-19T14:42:48.860Z",
+  "ip": "218.204.116.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Eh sec amiedotuv hizkego huwnepus ur fol zoebuzal ev cezpijke danaj fubul alauw wu. Teubuwo una wuwtaugi sikbuhenu poma de da rultawwe suzbo wa ewkiv gibfapno. Cahci nitbac ihira lirgi viih waob vituszo majewuani caijifiv pukjauk mozna otocodmu fufko.",
+    "bio": "Fuj zige hen goceale guw hej cibsocem riswi mukba zuohu vekju uzpi ro nigofsu kop. Amsi rac tahotev jiv tek vocama rurreg jeh gohgokdet nuamobi mud hootu kubusok rubka lofit nefoz vujona semvovdom. Lu ucovebzag hojro labe cofmoen zi sonuwfis le gar tatadko faz pako busrip uwvuhjol."
+  },
+  "apiKey": "4a0d2553789e79f6863bb4c0b79f84af032e206818d0c3e45b0830fcb400f70c",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
