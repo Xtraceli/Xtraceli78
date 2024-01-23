@@ -1,0 +1,26 @@
+{
+  "name": "Justin Carpenter",
+  "age": 53,
+  "address": {
+    "street": "Pumjo Glen",
+    "city": "Epahibtuc",
+    "state": "NY",
+    "zip": "07806"
+  },
+  "contact": {
+    "phone": "(319) 470-2104",
+    "servicePhone": "800916634"
+  },
+  "birthday": "2000-07-17T10:17:26.165Z",
+  "ip": "214.171.7.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Osezad lutbopa gice za la git di odwot zarmiddi vuvu epip geriher fe tuza opa nosubtu gisofar. Vo wez ni jicek tita fawiah akag isohul kilsuga iz jur ej mi. Muhif dej mo kutjihol miglemu me kuda lebuj ge hafic wa aduas ho.",
+    "bio": "Dooto zotte sa dewop suc wusza nuslu sutice vec zakli dizuwiku neadec. Sibi wedwodwi nuccukpek vacezel hehvero bewa ecu wu puhmub sot sibbika ipoka. Jur obduz farga bufovoto li nez tinej cop fuvidbo fahod uwaobbe midcefbaf zihmo."
+  },
+  "apiKey": "bd3757aaccd24be74a57dd4275bddd97a587d6c2efda149dc03a3b18137759e3",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
