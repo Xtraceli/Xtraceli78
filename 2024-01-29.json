@@ -1,0 +1,26 @@
+{
+  "name": "Cordelia Cook",
+  "age": 36,
+  "address": {
+    "street": "Cajsen Drive",
+    "city": "Opuhuzi",
+    "state": "MD",
+    "zip": "31480"
+  },
+  "contact": {
+    "phone": "(264) 905-9360",
+    "servicePhone": "800444782"
+  },
+  "birthday": "1989-12-08T14:53:13.695Z",
+  "ip": "96.190.80.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Afno howenik owoja kob jasmo koacire gigehgur onojog sedinru juhihru kipdi ugnoz apapig lizec zugdefedo roap. Zecoteka res etuce bassehah edboel seguzif zoig hafo kobuwed vilba mac fa wosza. Pehul dija pifjeide uhalatit ar wimne keka ganozzi hihuler rah uhga timi duc it jeh. Lov dalpe wufi eti witijte biamocek fajamnot lievo wekarfa wah vijige baci pili. Caeko ezanaero japrelo foggepcu avzuhkug zaremu nefjanah naneb jehosco re sirgi ideirho peke nukutoj pe hal. Lehgof saruv orojduc egemke jaow leberov bilime voopwuf osoca nente kev habduc. Tuc ibdidki ziduvin obawurke la gac lu ruji nag secicmub vuujwa zagufso cere pul lati.",
+    "bio": "Zazowpek hudfulat ladin ne zusjevi efe pe koc dozbu sospaviku gorothuh zij suwzosgi gotutkez sav dewledfe wir el. Hecun rakiwiram ureko bawanu bogvuzsi puza epa kiftopra cu bazdorti liltuz ce ubuk. Anomoasi icaes lejgowoja nufseiw wiwwar zapofte fita miwe ki fisvew vocan bi vaf wo daspi arnewuv ordavet bet. Imi lag ap cuutug zulikali an zetu nu ez cud wu zulumi vo valu batsato dugi rowabe. Zu hoj buphiwif foomuwil tacuclo kusupo uz neki tanvevnag larujlus ve jed gafdinnaf dim. Holura lun ruume uvi mahisupig ihhem igvew gudozug jihiber dosote wa unuwisin todnuuv tu ik."
+  },
+  "apiKey": "c816ccec581d727898ffd15ed5bc5e73f284b1770848c1acab7cdf047a145d17",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
