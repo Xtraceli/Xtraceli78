@@ -1,0 +1,26 @@
+{
+  "name": "Ian Lyons",
+  "age": 27,
+  "address": {
+    "street": "Duvi Lane",
+    "city": "Palecic",
+    "state": "IL",
+    "zip": "26206"
+  },
+  "contact": {
+    "phone": "(917) 253-7918",
+    "servicePhone": "800321918"
+  },
+  "birthday": "1978-05-22T17:04:27.784Z",
+  "ip": "49.126.166.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Gat ome weclufho ug kiwrufif tuni zed wep fa tape kuikaab muz sahpif fi. Lam sesjigje ujooci ahba zis lu foru mib jihilaj zovkif udo vem. Tusezokil minagza muul gigov azipecsu gov jufocon lerfodize gi ot rocif ezdip behko gilem.",
+    "bio": "Jan iri fu azjegu weico uge edi ziti wo tekhurlut tucsug megoc. Cigro binnad dizu sohto ke sipe geutmi gohez bebge limhuntid tiwuzfik colmecdeh ma di asiso akaurtu va. Ka ejru depetdib agupoaba gaz calhuopi deg etetu devhi oj ec ru jowwu pathase. Gernefguw lictotka oniug zide ro jeanadil ipe cumok lur to culnol hekijaw ole. Tibiar daibeub turug iw azigas ziwib peoc fet ranatog sullav ubevo fojace zagkovob gujuc. Urletpih mezcolufo wi ceavini edopitzuc bu cinil zukosu moosupiv fiujma awja ru elooswi."
+  },
+  "apiKey": "f5bbe55c3d53bbe0d66b0cdacb2fd35b2b33c5fbdd7fa1ec829c99d6aea58775",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
