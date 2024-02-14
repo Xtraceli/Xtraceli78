@@ -1,0 +1,26 @@
+{
+  "name": "Lois Ross",
+  "age": 22,
+  "address": {
+    "street": "Rabci Manor",
+    "city": "Popmasjot",
+    "state": "VT",
+    "zip": "18719"
+  },
+  "contact": {
+    "phone": "(414) 639-9588",
+    "servicePhone": "800944662"
+  },
+  "birthday": "2001-09-16T03:38:51.652Z",
+  "ip": "151.252.122.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Acvaj vuukezi besoene ir leh cup azpo agujuba rin da honas omuze ulokecab kivugvev ziztozgut racgugeb cila ervoc. Voba lo lel vusgaglum tiwgo vukof sene gagez huud opi lu hokzalnec anasudog nufut. Sakpahob tikuwpoh pah ce vajow widcisdi git soiha wuhod dirhicgo ru arehi abo. Inicojwib upionajus ravo kunezraz ribrebzu tamuf bivtonu fo be hasu kerib lerid uj ebotuewa nepusud tizrakmir kaonoto jelhe. Komullo falarebi cuba bih wot kum pof iliboin kucge hojoic upoicba wa.",
+    "bio": "Bemlutu puulo fo sempuazi tugnuha sezo wa uhi uci puwisso nodnih daih puhilko zit do. Ji hu umi ra bowas puru eg jutnic iw lafugpap minwippit zifhevda da ligot tabele. Hu ornejmi vemfa fezugu tagvawaj udakek pe nobemujo cistaga su gipfegwow vucpabmi gez letuluh."
+  },
+  "apiKey": "23ea31c3afb7589a784860bd8cbd692079888aff570ff7dabaae1f27e67f56c9",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
