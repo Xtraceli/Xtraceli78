@@ -1,0 +1,26 @@
+{
+  "name": "Jay Frank",
+  "age": 36,
+  "address": {
+    "street": "Azuil Loop",
+    "city": "Litmisam",
+    "state": "MO",
+    "zip": "91213"
+  },
+  "contact": {
+    "phone": "(227) 980-3961",
+    "servicePhone": "800124677"
+  },
+  "birthday": "1963-09-03T08:58:41.336Z",
+  "ip": "40.170.166.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Agapigev owe bug fu wes pes vebfow sivor zilbipu rije fedhofaf uf tagtosvin zufar. Ho amo bume ineb ketepum vavokvo kamul dizutsuw gophaz we ziumcu na bum. Icoregac ichoib mezebuul hunawal fu tek gug nakjap rutahic je lab cudwulah. Muv gat cuaz vekoj so gokasilom furiwget meb osiemo igahew uk kub tez fiefe. Ponatiduh hufikow dalku kisu fivvak repav gacon fidmom kabjadub wionho mojle zohpemig dakda da we toz. Ahe mizeno gosop lofodwu beb ripa cuev wefog pesani awdovet ti oboidku bu ul lezivofo itu. Gafle bacpez laf vaf ere oc juho lo ajfifu weg duizivo cudostal aw.",
+    "bio": "Errulok huvid bumef ces zeca bauzucaf gez ika gaj wooz it ocisu hifsi. Luup re piwrevjag pur tifukba we doided neot ekubo rekohef bub vapih ki. Ujobpi putuzi lejulma bepfimel duosgiv zo calo un ab fo orusi ni vifhe. Badco ma joupaew nesnekba homi ni ecubud fologap ajebiti har fonjud suwegru fisnaw wodunlu."
+  },
+  "apiKey": "298b965e6174a7c8010d2f4424217107bcfc1721db19d26c3f73264ab289cccf",
+  "currency": {
+    "code": "PAB",
+    "name": "Panama Balboa"
+  }
+}
