@@ -1,0 +1,26 @@
+{
+  "name": "Inez Pope",
+  "age": 25,
+  "address": {
+    "street": "Zuji Loop",
+    "city": "Afkigani",
+    "state": "AL",
+    "zip": "28603"
+  },
+  "contact": {
+    "phone": "(374) 646-8420",
+    "servicePhone": "800723836"
+  },
+  "birthday": "1972-04-09T03:19:31.137Z",
+  "ip": "146.223.52.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Rodrek wuw co zil nuba dewzaz wecohnaz rovkes surebauli sipafiawi tu ri. Vo funuce huffofa kirewpa mevakguc te sovugo ojito zaim zouna opogig la vu ec gieceomu. Dijtit vivvagam kuuhedo lim jahwe wew gik cuw uviva je unto hi felo putasfam hojej wa biabirow.",
+    "bio": "Ruzpiw nitak vakbi kag re geubama kijip tiikele zaez kow gapa lu ajwegi robetub fe nu ugavu. Ke pis miwi vuibi tezuhe mubdega sozatwef fartemi epumete ibouzvon ohuave ehavaf kurtu kuste ucu denuat razabgu. Zi tedaza rodus usamaere me bonuz zebmitsu uwva ta makela jaag utorofji."
+  },
+  "apiKey": "9fb907e16e0f3adef2d14aca09a62c3afff377266d7fefd5b26ff4dbac1e4aab",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
