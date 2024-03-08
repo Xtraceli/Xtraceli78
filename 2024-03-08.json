@@ -1,0 +1,26 @@
+{
+  "name": "Lois Hale",
+  "age": 48,
+  "address": {
+    "street": "Segdam Square",
+    "city": "Degomte",
+    "state": "DE",
+    "zip": "55240"
+  },
+  "contact": {
+    "phone": "(285) 893-7211",
+    "servicePhone": "800493224"
+  },
+  "birthday": "1994-06-21T01:35:06.491Z",
+  "ip": "197.159.222.152",
+  "foo": "bar",
+  "profile": {
+    "about": "De ewufo kefo ziwa pelgoiza kahonsu fadhum ilzuna do mubnage ziuw mazgawtu niv dik notep. Wefija lored daf eduke zu caropi law apu geabehu zosap zeotut po vewve voetaiji wejva lo vul. Urutig ojmo tog feuvo pausi ho insiiz damsec risu ubomo forelu daatjum renho uj gokup akibip bo luka.",
+    "bio": "Zigvem jottuh pe mumvese suhvih umi pikuvje dat vi nike defap fukorigev akelu ofewodagu tereg. Habmici giwaz gu fadrusi parbosov eb bo fa te op jepgunfo tewto mer nezovok pa. Kado foujcet katuzup si mipot cizipara cize mepkew dawla casuba ifzihis tavnithel ivan wodovhom."
+  },
+  "apiKey": "d25a256691e668a24f93802964892ba1b71cc7217e011d7e3f8d270cd5285d05",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
