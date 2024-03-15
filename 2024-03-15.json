@@ -1,0 +1,26 @@
+{
+  "name": "Cecilia French",
+  "age": 27,
+  "address": {
+    "street": "Itvo Circle",
+    "city": "Diigja",
+    "state": "NH",
+    "zip": "53420"
+  },
+  "contact": {
+    "phone": "(572) 563-8100",
+    "servicePhone": "800252399"
+  },
+  "birthday": "1993-05-11T05:40:54.063Z",
+  "ip": "58.9.116.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Ve hof ele darna ugumi logecovu lohu ja hehpokla neta gosat iziamrir ka. Maz masaf kilutuv zoezu bif avo de sebibum risbowca zoz po taovuneg urrovdo. Hiflo raso fok ino hi geg mikjogtek ri tahdekag de afaneus pigwe cuwip. Ef cejahusu wuw sibbappeh jukjocak tu fogpe gargiduv onu sat terzi cuher ab it vim.",
+    "bio": "Feucuol ogoke hofwuvvi jib ramwav wogih eko icizaw olija isokad udo liate. Jac jo otlu vej wi ce jek vu gemjamse ges parezija fu zimoco. Fu nazmezdo elopot soegfov huhfelte madtegom hojiju jurona ah he geol zapdefor. Wo honlajap uwbatoke milnaw fofiw hejbahmo pufat bid ehcupe obo ap pi umenipfe bu."
+  },
+  "apiKey": "2b467ee3d60fac0406169cc6aac25ee43f41f9cfd841f7485c640638f6f8c14b",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
