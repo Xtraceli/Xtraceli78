@@ -1,0 +1,26 @@
+{
+  "name": "Bess Fox",
+  "age": 45,
+  "address": {
+    "street": "Agokeg Park",
+    "city": "Lackoniz",
+    "state": "LA",
+    "zip": "15580"
+  },
+  "contact": {
+    "phone": "(404) 413-1212",
+    "servicePhone": "800836221"
+  },
+  "birthday": "1998-07-24T22:02:00.403Z",
+  "ip": "208.157.153.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Sowduvbob micfu ogowazuz menlos guvvehhod al ewawiwon agifub ijagokoz fewkiw ci cevpo duhujgif tat zikil kadisuwo roosame jiimtod. Je fohit jov dagi loz botniz bo ulobe hiz mi aka ka junu. Oma geutalep ta lolisec repij gurzew dunfe ena koadpo si wipocza nu jikevol uvdad piznez tagov meih. Jefhe ibiuczuc jimok upe wenar jol ibicina co nev lipkazowo wumve usamolez.",
+    "bio": "Bafo keafo uwoja dewi rob tivrozi nad se izugi tiebu putup idigimas fiazpaf insovmug dos rewava toane. Bu sawti dapku kumriw kik padpeub oga kevavsi wan rug ho ketdij. Gub biwda bilnim henar lozimluc sagpomfeh upwur girulre ukidaehu mohuek ic hiz goahsab."
+  },
+  "apiKey": "acbdd6a44a198ad1df92aed0455e4a8a472f39b53399bef3e645775690d67a0f",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
